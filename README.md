@@ -19,7 +19,6 @@ This repository is where I kept all of my trainings and awards. I've also comple
 | Supervised Machine Learning: Regression and Classification | DeepLearning.AI & Stanford | [Course Link](https://www.coursera.org/account/accomplishments/verify/FMDACWJBTPY7) |
 | Unsupervised Learning, Recommenders, Reinforcement Learning | DeepLearning.AI & Stanford | [Course Link](https://www.coursera.org/account/accomplishments/verify/HUQ4E8RGXVC4) |
 | Advanced Learning Algorithms | DeepLearning.AI & Stanford | [Course Link](https://www.coursera.org/account/accomplishments/verify/ZYF8NM5V2VKP) | 
-| Google Cloud Database Engineer Specialization | Google Cloud | [Course Link](https://www.coursera.org/account/accomplishments/specialization/N0ABLJJPR1A3) | 
 | Machine Learning with Apache Spark | IBM | [Course Link](https://www.coursera.org/account/accomplishments/verify/S4ACLBLWYFNP) | 
 | Data Science Specialization | IBM | [Course Link](https://www.coursera.org/account/accomplishments/specialization/ACFRYH8JL39L) | 
 | Building Generative AI-Powered Applications with Python | IBM | [Course Link](https://www.coursera.org/account/accomplishments/verify/9G5PDFCW7LDF) | 
@@ -35,6 +34,7 @@ This repository is where I kept all of my trainings and awards. I've also comple
 | Machine Learning with Python | IBM | [Course Link](https://www.coursera.org/account/accomplishments/verify/WXR6JS4VF7C7) | 
 | Applied Data Science Capstone | IBM | [Course Link](https://www.coursera.org/account/accomplishments/verify/CP3AFES7FQL2) | 
 | Introduction to Big Data with Spark and Hadoop | IBM | [Course Link](https://www.coursera.org/account/accomplishments/verify/U5RL5VYFK4Y7) | 
+| Google Cloud Database Engineer Specialization | Google Cloud | [Course Link](https://www.coursera.org/account/accomplishments/specialization/N0ABLJJPR1A3) | 
 | A Tour of Google Cloud Hands-on Labs | Google Cloud | [Course Link](https://www.coursera.org/account/accomplishments/verify/N3U8RFTFZXWG) |
 | Google Cloud Fundamentals: Core Infrastructure | Google Cloud | [Course Link](https://www.coursera.org/account/accomplishments/verify/FUMEN66NP8CP) |
 | Cloud SQL for MySQL: Qwik Start | Google Cloud | [Course Link](https://www.coursera.org/account/accomplishments/verify/SZQKENBLYPBY) |
