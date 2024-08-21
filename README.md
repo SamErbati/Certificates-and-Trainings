@@ -11,7 +11,7 @@ This repository is where I kept all of my trainings and awards. I've also comple
 - Optimization Modelings (100+ hours) - Coursera
 - Project Management (100+ hours) - Google/Telekom
 
-# Table 1. List of selected courses 
+# List of selected courses: 
 
 | Course | Offered by | Certificate Link |
 | ------ | ------------- | ----------- |
@@ -34,5 +34,20 @@ This repository is where I kept all of my trainings and awards. I've also comple
 | Data Visualization with Python | IBM | [Course Link](https://www.coursera.org/account/accomplishments/verify/AXNQTNEV6XEL) | 
 | Machine Learning with Python | IBM | [Course Link](https://www.coursera.org/account/accomplishments/verify/WXR6JS4VF7C7) | 
 | Applied Data Science Capstone | IBM | [Course Link](https://www.coursera.org/account/accomplishments/verify/CP3AFES7FQL2) | 
-| Machine Learning with Apache Spark | IBM | [Course Link](https://www.coursera.org/account/accomplishments/verify/S4ACLBLWYFNP) | 
-| Machine Learning with Apache Spark | IBM | [Course Link](https://www.coursera.org/account/accomplishments/verify/S4ACLBLWYFNP) | 
+| Advanced SQL Retrieval Queries in SQLiteStudio | Coursera | [Course Link](https://www.coursera.org/account/accomplishments/verify/MJVDS6V6YY63) | 
+| Introduction to Tableau | Tableau | [Course Link](https://www.coursera.org/account/accomplishments/verify/MA2FVLD4XFXP) | 
+| Foundry Foundations | Foundry | [Course Link](https://verify.skilljar.com/c/n37wydpzy4ka) | 
+| Introduction to Big Data with Spark and Hadoop | IBM | [Course Link](https://www.coursera.org/account/accomplishments/verify/U5RL5VYFK4Y7) | 
+| A Tour of Google Cloud Hands-on Labs | Google Cloud | [Course Link](https://www.coursera.org/account/accomplishments/verify/N3U8RFTFZXWG) |
+| Google Cloud Fundamentals: Core Infrastructure | Google Cloud | [Course Link](https://www.coursera.org/account/accomplishments/verify/FUMEN66NP8CP) |
+| Cloud SQL for MySQL: Qwik Start | Google Cloud | [Course Link](https://www.coursera.org/account/accomplishments/verify/SZQKENBLYPBY) |
+| Migrating to Cloud SQL from Amazon RDS for MySQL Using Database Migration Service | Google Cloud | [Course Link](https://www.coursera.org/account/accomplishments/verify/9L2483YTAW34) |
+| Migrating On-premises MySQL Using a Continuous Database Migration Service Job | Google Cloud | [Course Link](https://www.coursera.org/account/accomplishments/verify/ZMKTSKCPWL3M) |
+| Migrate to Cloud SQL for PostgreSQL using Database Migration Service | Google Cloud | [Course Link](https://www.coursera.org/account/accomplishments/verify/9E6G34SYDD6J) |
+| Connect an App to a Cloud SQL for PostgreSQL Instance | Google Cloud | [Course Link](https://www.coursera.org/account/accomplishments/verify/FEZJUGJXZJ3E) |
+| Securing a Cloud SQL for PostgreSQL Instance | Google Cloud | [Course Link](https://www.coursera.org/account/accomplishments/verify/WQAKYG4WH4JF) |
+| A Tour of Google Cloud Hands-on Labs | Google Cloud | [Course Link](https://www.coursera.org/account/accomplishments/verify/N3U8RFTFZXWG) |
+| A Tour of Google Cloud Hands-on Labs | Google Cloud | [Course Link](https://www.coursera.org/account/accomplishments/verify/N3U8RFTFZXWG) |
+| A Tour of Google Cloud Hands-on Labs | Google Cloud | [Course Link](https://www.coursera.org/account/accomplishments/verify/N3U8RFTFZXWG) |
+| A Tour of Google Cloud Hands-on Labs | Google Cloud | [Course Link](https://www.coursera.org/account/accomplishments/verify/N3U8RFTFZXWG) |
+| A Tour of Google Cloud Hands-on Labs | Google Cloud | [Course Link](https://www.coursera.org/account/accomplishments/verify/N3U8RFTFZXWG) |
